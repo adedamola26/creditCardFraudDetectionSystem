@@ -3,4 +3,6 @@ ML Project to evaluate performance of decision tree with prepruning, xgboost and
 
 link to report: https://github.com/adedamola26/creditCardFraudDetectionSystem/blob/main/Adedamola_Adesoye_002707831-analysis.pdf
 
+link to jupyter notebook: https://github.com/adedamola26/creditCardFraudDetectionSystem/blob/main/creditCardFraud.ipynb
+
 link to dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?search=zero
